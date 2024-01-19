@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ecommerce-Website](https://piyush289kumar.github.io/Ecommerce-Website/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** & **DSA with C++**
 
 - 👨‍💻 All of my projects are available at [https://piyush289kumar.github.io/selfPortfolio/](https://piyush289kumar.github.io/selfPortfolio/)
 
