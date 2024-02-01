@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Divyaansh Biochemic Medical College](https://dbmcollage.com)
 
-- 🌱 I’m currently learning **JavaScript** & **DSA with C++**
+- 🌱 I’m currently learning **React** & **DSA with JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://piyush289kumar.github.io/selfPortfolio/](https://piyush289kumar.github.io/selfPortfolio/)
 
