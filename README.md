@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **piyushraikwar289@gmail.com**
 
-- 📄 Know about my experiences [https://piyush289kumar.github.io/selfPortfolio/Resume/Piyush%20Shailendra%20Kumar%20Raikwar.pdf](https://piyush289kumar.github.io/selfPortfolio/Resume/Piyush%20Shailendra%20Kumar%20Raikwar.pdf)
+- 📄 Know about my experiences [**CV - Download**](https://piyush289kumar.github.io/selfPortfolio/Resume/Piyush%20Shailendra%20Kumar%20Raikwar.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
