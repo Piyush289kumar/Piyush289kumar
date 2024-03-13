@@ -24,7 +24,7 @@
   <img width="12" />
 </div>
 <br>
-- 🔭 I’m currently working on [Divyaansh Biochemic Medical College](https://dbmcollage.com)
+- 🔭 I’m currently working on Front-End React App
 
 - 🌱 I’m currently learning **React** & **DSA with JavaScript**
 
