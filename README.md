@@ -26,7 +26,7 @@
   <img width="12" />
 </div>
 <br>
-- 🔭 I’m currently working on [**Control Panel**](https://dashboard-xi-ivory.vercel.app/ecommerce)
+- 🔭 I’m currently working on  Control Panel : (https://dashboard-xi-ivory.vercel.app/ecommerce)
 
 - 🌱 I’m currently learning **React** & **DSA with JavaScript**
 
