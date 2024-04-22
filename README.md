@@ -6,7 +6,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
   <img width="12"/>
-  <img src="https://logowik.com/content/uploads/images/nodejs.jpg" height="30" alt="nodejs logo"/>
+  <img src="https://cibadress.com/app/project.dev/admin/upload_media/users_profiles_picture/22_Apr_2024_04_07_14pm_png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-removebg-preview.png" height="30" alt="nodejs logo"/>
+  <img width="12"/>
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png" height="30" alt="nodejs logo" style="border-radius:18px"/>
+  <img width="12"/>
+  <img src="https://cibadress.com/app/project.dev/admin/upload_media/users_profiles_picture/22_Apr_2024_04_10_14pm_pngwing.com.png" height="30" alt="nodejs logo"/>
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" height="26" alt="Tailwind logo"  />
   <img width="12" />
