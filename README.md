@@ -39,7 +39,7 @@
 
 - 🔭 I’m currently working on [**Open Source Project Platform**](https://cibadress.com/app/project.dev)
 
-- 🌱 I’m currently learning **Backend** & **DSA with C**
+- 🌱 I’m currently learning **DSA with C++**
 
 - 👨‍💻 All of my projects are available at [https://piyush289kumar.github.io/selfPortfolio/](https://piyush289kumar.github.io/selfPortfolio/)
 
