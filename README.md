@@ -4,6 +4,12 @@
 # 💻 Tech Stack:
 
 <div align="left">
+  <img src="https://cibadress.com/images/laravel_logo.png" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
   <img width="12"/>
   <img src="https://cibadress.com/app/project.dev/admin/upload_media/users_profiles_picture/22_Apr_2024_04_07_14pm_png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-removebg-preview.png" height="30" alt="nodejs logo"/>
@@ -22,12 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cibadress.com/images/laravel_logo.png" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn3d.iconscout.com/3d/free/preview/free-corel-draw-9234644-7516869.png?f=webp&h=700" height="30" alt="Corel Draw" style='border-radius:8px' />
