@@ -6,6 +6,8 @@
 <div align="left">
   <img src="https://cibadress.com/images/laravel_logo.png" height="30" alt="laravel logo"  />
   <img width="12" />
+  <img src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.15.0/1703694028504/Microsoft.VisualStudio.Services.Icons.Default" height="30" alt="django logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
