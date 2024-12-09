@@ -41,7 +41,7 @@
 
 - 📫 How to reach me **piyushraikwar289@gmail.com**
 
-- 📄 Know about my experiences [**CV - Download**](https://piyush289kumar.github.io/selfPortfolio/Resume/Piyush%20Shailendra%20Kumar%20Raikwar.pdf)
+- 📄 Know about my experiences [**CV - Download**](https://piyush289kumar.github.io/selfPortfolio/Resume/Piyush_Shailendra_Kumar_Raikwar.pdf)
 
 <h2>⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush289kumar&theme=default"/>
