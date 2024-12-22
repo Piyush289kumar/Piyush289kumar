@@ -33,7 +33,7 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on [**Service Booking Platform**](https://binduservice.com)
+- 🔭 I’m currently working on [**Service Booking PWA (Progressive Web Application)**](https://binduservice.com)
 
 - 🌱 I’m currently learning **DSA with C++**
 
