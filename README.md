@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Kumar Raikwar</h1>
+<h1 align="center">Hi 👋, I'm Piyush Shailendra Kumar Raikwar</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 # 💻 Tech Stack: 
