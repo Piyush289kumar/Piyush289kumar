@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on [**Service Booking PWA (Progressive Web Application)**](https://binduservice.com)
 
-- 🌱 I’m currently learning **DSA with C++**
+- 🌱 I’m currently learning **DSA with C++ & AI**
 
 - 👨‍💻 All of my projects are available at [https://piyush289kumar.github.io/selfPortfolio/](https://piyush289kumar.github.io/selfPortfolio/)
 
