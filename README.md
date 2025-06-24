@@ -33,9 +33,9 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on **Backend With Node.js**
+- 🔭 I’m currently working on **Next.Js & Laravel**
 
-- 🌱 I’m currently learning **DSA with C++ & AI**
+- 🌱 I’m currently learning **DSA with C++**
 
 - 👨‍💻 All of my projects are available at [https://piyush289kumar.github.io/selfPortfolio/](https://piyush289kumar.github.io/selfPortfolio/)
 
