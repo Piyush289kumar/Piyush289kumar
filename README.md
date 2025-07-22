@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Shailendra Kumar Raikwar</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">Software Engineer</h3>
 
-# 💻 Tech Stack: 
+# 💻 Tech Stack:
 
 <div align="left">
   <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Laravel-3.png" height="30" alt="laravel logo"  />
