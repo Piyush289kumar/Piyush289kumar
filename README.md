@@ -1,59 +1,56 @@
-<h1 align="center">Hi 👋, I'm Piyush Shailendra Kumar Raikwar</h1>
-<h2 align="center">(Software Engineer)</h2>
+# Hi there! 👋 I'm Piyush Shailendra Kumar Raikwar
 
+[cite_start]**Full Stack Software Engineer** specializing in building scalable web applications, REST APIs, and CI/CD pipelines[cite: 4]. [cite_start]I have a strong background in Data Structures and Algorithms (C++) and over 10 production-ready projects under my belt[cite: 4].
 
-# 💻 Tech Stack:
+---
 
-<div align="left">
-  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Laravel-3.png" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <!-- <img src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.15.0/1703694028504/Microsoft.VisualStudio.Services.Icons.Default" height="30" alt="django logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
-  <img width="12"/>
-  <img src="https://cibadress.com/app/project.dev/admin/upload_media/users_profiles_picture/22_Apr_2024_04_07_14pm_png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-removebg-preview.png" height="30" alt="nodejs logo"/>
-  <img width="12"/>
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png" height="30" alt="expressjs logo" style="border-radius:18px"/>
-  <img width="12"/>
-  <img src="https://cibadress.com/app/project.dev/admin/upload_media/users_profiles_picture/22_Apr_2024_04_10_14pm_pngwing.com.png" height="30" alt="mongoDB logo"/>
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" height="26" alt="Tailwind logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn3d.iconscout.com/3d/free/preview/free-corel-draw-9234644-7516869.png?f=webp&h=700" height="30" alt="Corel Draw" style='border-radius:8px' />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"/>
-  <img width="12" />
-</div>
-<br>
+## 🚀 About Me
+* [cite_start]I am currently working as a Software Engineer at Vipprow Digital & Software Solution Pvt Ltd[cite: 12, 13].
+* [cite_start]I am pursuing my MCA at Rajiv Gandhi Proudyogiki Vishwavidyalaya (2025 Batch)[cite: 40, 43].
+* [cite_start]I specialize in modern tech stacks including React.js, Next.js, Node.js, and Laravel[cite: 4].
+* [cite_start]I hold a BCA degree from Makhanlal Chaturvedi National University, where I was awarded Best Performer of the Year in 2023[cite: 38, 41].
 
-- 🔭 I’m currently working on **Next.Js & Laravel**
+---
 
-- 🌱 I’m currently learning **DSA with C++**
+## 💻 Tech Stack & Skills
+* [cite_start]**Frontend:** React.js, Redux Toolkit, TypeScript, Tailwind CSS, Bootstrap, JavaScript[cite: 6].
+* [cite_start]**Backend:** Node.js, Express.js, MongoDB, MySQL, PHP (Laravel)[cite: 6].
+* [cite_start]**Frameworks:** Next.js, Laravel 12.0x[cite: 8].
+* [cite_start]**Databases:** MySQL, MongoDB[cite: 7].
+* [cite_start]**Deployment & DevOps:** Hostinger VPS, Coolify, Docker, GitHub Actions (CI/CD)[cite: 9, 30].
+* [cite_start]**Tools & Concepts:** DSA with C++, GitHub, Linux, CorelDRAW, MVC Architecture[cite: 10].
 
-- 👨‍💻 All of my projects are available at [https://piyush289kumar.github.io/selfPortfolio/](https://piyush289kumar.github.io/selfPortfolio/)
+---
 
-- 📫 How to reach me **piyushraikwar289@gmail.com**
+## 💼 Experience
+* **Software Engineer** | [cite_start]Vipprow Digital & Software Solution Pvt Ltd (Sep 2025 - Present)[cite: 12, 13, 14].
+* **Laravel Developer Intern** | [cite_start]Intenics Pvt Ltd (May 2024 - Sep 2024)[cite: 17, 18, 19].
+* **Full Stack Web Developer Intern** | [cite_start]Aalaa Commonwealth Society (Dec 2023 - May 2024)[cite: 21, 22, 23].
 
-- 📄 Know about my experiences [**CV - Download**](https://drive.google.com/file/d/1yDE32fRVsq_p8aoJ4p_L13DDAL1E8eIg/view)
+---
 
-<h2>⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush289kumar&theme=default"/>
+## 🛠️ Featured Projects
+[cite_start]**Beauty Brand Website** [cite: 26]
+* [cite_start]Built a scalable full-stack platform using Next.js, React.js, Node.js, MongoDB, TypeScript, and Zod[cite: 28].
+* [cite_start]Developed a high-performance frontend and admin dashboard using Redux Toolkit, TanStack Query, and ShadCN UI[cite: 29].
+* [cite_start]Deployed on a Hostinger VPS utilizing Docker, Coolify, and GitHub Actions[cite: 30].
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<div> <a href="https://www.linkedin.com/in/piyush-kumar-raikwar-800b7b1b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Piyush289kumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
-<a href="https://www.instagram.com/piyush_nqa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:piyushraikwar289@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p></div>
+[cite_start]**Service Booking & E-Commerce Application** [cite: 32]
+* [cite_start]Developed a complete CRM system with role-based dashboards utilizing Laravel 11.0x[cite: 32].
+* [cite_start]Enabled secure online payments with Razorpay and ensured PWA compliance for offline use[cite: 33].
 
+[cite_start]*Check out my repositories below for 10+ more projects!* [cite: 35]
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush289kumar&show_icons=true&locale=en&layout=compact" alt="piyush289kumar" /></p>
+---
 
+## 🏆 Achievements
+* [cite_start]1st Place in the DSA Contest (Time Limit Exceeds - Phase 1) Coding Competition[cite: 36].
+* [cite_start]React.js Certification from HackerRank[cite: 37].
+* [cite_start]Awarded Best Performer of the Year 2023 during my BCA Graduation[cite: 38].
+
+---
+
+## 📫 Let's Connect
+* [cite_start]**Email:** piyushraikwar289@gmail.com [cite: 2]
+* [cite_start]**LinkedIn:** [linkedin.com/in/piyushkumar289](https://linkedin.com/in/piyushkumar289) [cite: 2]
+* [cite_start]**Portfolio/GitHub:** [github.com/Piyush289kumar](https://github.com/Piyush289kumar) [cite: 2]
