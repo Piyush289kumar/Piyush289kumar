@@ -1,164 +1,164 @@
-<h1 align="center">Hi 👋, I'm Piyush Kumar Raikwar</h1>
-<h3 align="center">Full Stack Software Engineer | React • Next.js • Node.js • Laravel</h3>
+<h1 align="center">Piyush Kumar Raikwar</h1>
+<h3 align="center">Software Engineer | React • Next.js • Node.js • Laravel • DSA</h3>
 
 <p align="center">
-  <a href="mailto:piyushraikwar289@gmail.com">Email</a> •
-  <a href="https://github.com/Piyush289kumar">GitHub</a> •
-  <a href="https://linkedin.com/in/piyushkumar289">LinkedIn</a>
+  <a href="mailto:piyushraikwar289@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/piyushkumar289">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Piyush289kumar">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 Professional Summary
 
-I am a **Full Stack Software Engineer** with strong experience in building **scalable web applications, REST APIs, and modern full-stack systems** using React, Next.js, Node.js, and Laravel.
+Software Engineer with hands-on experience in building scalable web applications and RESTful APIs using **React.js, Next.js, Node.js, and Laravel**.
 
-- 🔭 Currently working as **Software Engineer at Vipprow Digital & Software Solution Pvt Ltd**
-- 💻 Built **10+ production-ready projects**
-- ⚡ Strong in **Data Structures & Algorithms (C++)**
-- 🧠 Passionate about **system design, scalable architecture, and clean code**
-- 🚀 Experienced with **CI/CD pipelines and VPS deployments**
+Experienced in designing modern full-stack architectures, deploying production systems on VPS infrastructure, and implementing CI/CD pipelines. Strong problem-solving ability with solid foundations in **Data Structures and Algorithms (C++)**.
+
+✔ 15+ Production Projects.  
+✔ Experience with **Monolithic & Microservices** Architecture.  
+✔ CI/CD & Cloud Deployment.  
+✔ Performance Optimization & Scalable Systems.  
 
 ---
 
-## 🛠 Tech Stack
+# 🧠 Technical Expertise
 
-### Frontend
-- React.js
-- Next.js
-- TypeScript
-- Redux Toolkit
-- Tailwind CSS
-- Bootstrap
-- JavaScript
+### Frontend Development
+#### React.js • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • Bootstrap • JavaScript
 
-### Backend
-- Node.js
-- Express.js
-- Laravel (PHP)
+### Backend Development
+#### Node.js • Express.js • PHP • Laravel
 
-### Database
-- MySQL
-- MongoDB
+### Databases
+#### MySQL • MongoDB
 
 ### DevOps & Deployment
-- Docker
-- GitHub Actions
-- Coolify
-- Hostinger VPS
-- Linux
+#### Docker • GitHub Actions • VPS Deployment • Coolify • Linux
 
-### Other Skills
-- DSA with C++
-- MVC Architecture
-- Git & GitHub
-- CorelDRAW
+### Software Engineering
+#### REST APIs • MVC Architecture • System Design • DSA (C++)
 
 ---
 
-## 💼 Work Experience
+# 💼 Professional Experience
 
-### Software Engineer  
-**Vipprow Digital & Software Solution Pvt Ltd**  
-*Sep 2025 – Present*
+## Software Engineer
+**Vipprow Digital & Software Solution Pvt Ltd – Jabalpur, India**  
+Sep 2025 – Present
 
-- Developed scalable **Next.js + Laravel applications**
-- Built **Node.js backend APIs for mobile apps**
-- Working on **Next.js CRM software**
-- Contributed to UI/UX assets using **CorelDRAW**
+- Designed and deployed **Next.js and Laravel applications** for production environments.
+- Developed **Node.js backend services for mobile applications**.
+- Contributing to development of a **Next.js CRM platform**.
+- Collaborating on UI design assets using **CorelDRAW**.
+---
+
+## Laravel Developer Intern
+**Intenics Pvt Ltd – IT Park, Jabalpur**  
+May 2024 – Sep 2024
+
+- Built responsive Laravel web applications with optimized backend architecture.
+- Improved backend performance by **30%** through query optimization.
+- Enhanced UI responsiveness resulting in **20% increased user engagement**.
 
 ---
 
-### Laravel Developer Intern  
-**Intenics Pvt Ltd**  
-*May 2024 – Sep 2024*
+## Full Stack Web Developer Intern
+**Aalaa Commonwealth Society – Jabalpur**  
+Dec 2023 – May 2024
 
-- Built responsive Laravel applications
-- Optimized backend logic and database queries
-- Increased **performance by 30%**
-- Improved **user engagement by 20%**
-
----
-
-### Full Stack Web Developer Intern  
-**Aalaa Commonwealth Society**  
-*Dec 2023 – May 2024*
-
-- Built full-stack applications with **PHP, MySQL, TailwindCSS**
-- Integrated **REST APIs**
-- Optimized database schemas improving performance by **15%**
+- Developed full-stack applications using **PHP, MySQL, TailwindCSS, and Bootstrap**.
+- Integrated RESTful APIs and optimized database schemas.
+- Improved system performance by **15%**.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### Beauty Brand Platform
-**Tech Stack:** Next.js, React.js, Node.js, MongoDB, TypeScript, Redux Toolkit, Docker
+## Beauty Brand Full Stack Platform
 
-- Built a **scalable full-stack beauty brand platform**
-- Developed admin dashboard using **TanStack Query & ShadCN UI**
-- Implemented **CI/CD pipeline using GitHub Actions**
-- Deployed using **Docker + Coolify on VPS**
+**Technology:** Next.js • React • Node.js • MongoDB • TypeScript • Redux Toolkit • Docker
 
-🔗 Links  
-- https://bellezaschool.com  
-- https://console.bellezaschool.com  
-- https://api.bellezaschool.com
+- Designed a scalable **full-stack beauty brand ecosystem**
+- Built an **admin dashboard using TanStack Query and ShadCN UI**
+- Implemented **CI/CD pipelines using GitHub Actions**
+- Deployed production services using **Docker + VPS + Coolify**
+
+#### Production Links:
+
+Website : https://bellezaschool.com
+
+Admin Console : https://console.bellezaschool.com
+
+Backend : https://api.bellezaschool.com
 
 ---
 
-### Service Booking & CRM System
-**Tech Stack:** Laravel, Razorpay, PWA
+## Service Booking & CRM Platform
 
-- Developed a **complete CRM system**
-- Role-based dashboards for **Admin, Staff, and Customers**
+**Technology:** Laravel • Razorpay • Progressive Web App
+
+- Developed a **complete service management CRM system**
+- Implemented **role-based dashboards for Admin, Staff, and Customers**
 - Integrated **online payments using Razorpay**
-- Built **PWA support for offline functionality**
+- Implemented **PWA support for offline functionality**
 
-🔗 Links  
-- https://binduelectricals.in  
-- https://binduservice.com  
+Production Links:
 
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Place – DSA Coding Competition**
-- 📜 **React.js Certification – HackerRank**
-- ⭐ **Best Performer of the Year 2023 (BCA)**
+https://binduelectricals.in  
+https://binduservice.com
 
 ---
 
-## 🎓 Education
+# 🏆 Achievements
+
+🥇 **1st Place** — DSA Coding Competition (Time Limit Exceeds Phase 1)  
+📜 React.js Certification — HackerRank  
+⭐ **Best Performer of the Year** — BCA Graduation
+
+---
+
+# 🎓 Education
 
 **Master of Computer Applications (MCA)**  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)  
-2025 Batch – Jabalpur, M.P.
+Graduated: 2025
 
 **Bachelor of Computer Applications (BCA)**  
 Makhanlal Chaturvedi National University  
-2023 Batch – Jabalpur, M.P.
+Graduated: 2023
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush289kumar&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush289kumar&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush289kumar&show_icons=true&theme=github_dark" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush289kumar&layout=compact&theme=github_dark" height="180">
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Contact
 
-- 📧 Email: piyushraikwar289@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/piyushkumar289
-- 💻 GitHub: https://github.com/Piyush289kumar
+**Email**  
+piyushraikwar289@gmail.com
+
+**LinkedIn**  
+linkedin.com/in/piyushkumar289
+
+**GitHub**  
+github.com/Piyush289kumar
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ Open to collaboration on **Full Stack, SaaS, and scalable web platforms**
