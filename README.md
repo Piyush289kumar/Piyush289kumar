@@ -1,56 +1,164 @@
-# Hi there! 👋 I'm Piyush Shailendra Kumar Raikwar
+<h1 align="center">Hi 👋, I'm Piyush Kumar Raikwar</h1>
+<h3 align="center">Full Stack Software Engineer | React • Next.js • Node.js • Laravel</h3>
 
-[cite_start]**Full Stack Software Engineer** specializing in building scalable web applications, REST APIs, and CI/CD pipelines[cite: 4]. [cite_start]I have a strong background in Data Structures and Algorithms (C++) and over 10 production-ready projects under my belt[cite: 4].
-
----
-
-## 🚀 About Me
-* [cite_start]I am currently working as a Software Engineer at Vipprow Digital & Software Solution Pvt Ltd[cite: 12, 13].
-* [cite_start]I am pursuing my MCA at Rajiv Gandhi Proudyogiki Vishwavidyalaya (2025 Batch)[cite: 40, 43].
-* [cite_start]I specialize in modern tech stacks including React.js, Next.js, Node.js, and Laravel[cite: 4].
-* [cite_start]I hold a BCA degree from Makhanlal Chaturvedi National University, where I was awarded Best Performer of the Year in 2023[cite: 38, 41].
+<p align="center">
+  <a href="mailto:piyushraikwar289@gmail.com">Email</a> •
+  <a href="https://github.com/Piyush289kumar">GitHub</a> •
+  <a href="https://linkedin.com/in/piyushkumar289">LinkedIn</a>
+</p>
 
 ---
 
-## 💻 Tech Stack & Skills
-* [cite_start]**Frontend:** React.js, Redux Toolkit, TypeScript, Tailwind CSS, Bootstrap, JavaScript[cite: 6].
-* [cite_start]**Backend:** Node.js, Express.js, MongoDB, MySQL, PHP (Laravel)[cite: 6].
-* [cite_start]**Frameworks:** Next.js, Laravel 12.0x[cite: 8].
-* [cite_start]**Databases:** MySQL, MongoDB[cite: 7].
-* [cite_start]**Deployment & DevOps:** Hostinger VPS, Coolify, Docker, GitHub Actions (CI/CD)[cite: 9, 30].
-* [cite_start]**Tools & Concepts:** DSA with C++, GitHub, Linux, CorelDRAW, MVC Architecture[cite: 10].
+## 👨‍💻 About Me
+
+I am a **Full Stack Software Engineer** with strong experience in building **scalable web applications, REST APIs, and modern full-stack systems** using React, Next.js, Node.js, and Laravel.
+
+- 🔭 Currently working as **Software Engineer at Vipprow Digital & Software Solution Pvt Ltd**
+- 💻 Built **10+ production-ready projects**
+- ⚡ Strong in **Data Structures & Algorithms (C++)**
+- 🧠 Passionate about **system design, scalable architecture, and clean code**
+- 🚀 Experienced with **CI/CD pipelines and VPS deployments**
 
 ---
 
-## 💼 Experience
-* **Software Engineer** | [cite_start]Vipprow Digital & Software Solution Pvt Ltd (Sep 2025 - Present)[cite: 12, 13, 14].
-* **Laravel Developer Intern** | [cite_start]Intenics Pvt Ltd (May 2024 - Sep 2024)[cite: 17, 18, 19].
-* **Full Stack Web Developer Intern** | [cite_start]Aalaa Commonwealth Society (Dec 2023 - May 2024)[cite: 21, 22, 23].
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- Redux Toolkit
+- Tailwind CSS
+- Bootstrap
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+- Laravel (PHP)
+
+### Database
+- MySQL
+- MongoDB
+
+### DevOps & Deployment
+- Docker
+- GitHub Actions
+- Coolify
+- Hostinger VPS
+- Linux
+
+### Other Skills
+- DSA with C++
+- MVC Architecture
+- Git & GitHub
+- CorelDRAW
 
 ---
 
-## 🛠️ Featured Projects
-[cite_start]**Beauty Brand Website** [cite: 26]
-* [cite_start]Built a scalable full-stack platform using Next.js, React.js, Node.js, MongoDB, TypeScript, and Zod[cite: 28].
-* [cite_start]Developed a high-performance frontend and admin dashboard using Redux Toolkit, TanStack Query, and ShadCN UI[cite: 29].
-* [cite_start]Deployed on a Hostinger VPS utilizing Docker, Coolify, and GitHub Actions[cite: 30].
+## 💼 Work Experience
 
-[cite_start]**Service Booking & E-Commerce Application** [cite: 32]
-* [cite_start]Developed a complete CRM system with role-based dashboards utilizing Laravel 11.0x[cite: 32].
-* [cite_start]Enabled secure online payments with Razorpay and ensured PWA compliance for offline use[cite: 33].
+### Software Engineer  
+**Vipprow Digital & Software Solution Pvt Ltd**  
+*Sep 2025 – Present*
 
-[cite_start]*Check out my repositories below for 10+ more projects!* [cite: 35]
+- Developed scalable **Next.js + Laravel applications**
+- Built **Node.js backend APIs for mobile apps**
+- Working on **Next.js CRM software**
+- Contributed to UI/UX assets using **CorelDRAW**
+
+---
+
+### Laravel Developer Intern  
+**Intenics Pvt Ltd**  
+*May 2024 – Sep 2024*
+
+- Built responsive Laravel applications
+- Optimized backend logic and database queries
+- Increased **performance by 30%**
+- Improved **user engagement by 20%**
+
+---
+
+### Full Stack Web Developer Intern  
+**Aalaa Commonwealth Society**  
+*Dec 2023 – May 2024*
+
+- Built full-stack applications with **PHP, MySQL, TailwindCSS**
+- Integrated **REST APIs**
+- Optimized database schemas improving performance by **15%**
+
+---
+
+## 🚀 Featured Projects
+
+### Beauty Brand Platform
+**Tech Stack:** Next.js, React.js, Node.js, MongoDB, TypeScript, Redux Toolkit, Docker
+
+- Built a **scalable full-stack beauty brand platform**
+- Developed admin dashboard using **TanStack Query & ShadCN UI**
+- Implemented **CI/CD pipeline using GitHub Actions**
+- Deployed using **Docker + Coolify on VPS**
+
+🔗 Links  
+- https://bellezaschool.com  
+- https://console.bellezaschool.com  
+- https://api.bellezaschool.com
+
+---
+
+### Service Booking & CRM System
+**Tech Stack:** Laravel, Razorpay, PWA
+
+- Developed a **complete CRM system**
+- Role-based dashboards for **Admin, Staff, and Customers**
+- Integrated **online payments using Razorpay**
+- Built **PWA support for offline functionality**
+
+🔗 Links  
+- https://binduelectricals.in  
+- https://binduservice.com  
 
 ---
 
 ## 🏆 Achievements
-* [cite_start]1st Place in the DSA Contest (Time Limit Exceeds - Phase 1) Coding Competition[cite: 36].
-* [cite_start]React.js Certification from HackerRank[cite: 37].
-* [cite_start]Awarded Best Performer of the Year 2023 during my BCA Graduation[cite: 38].
+
+- 🥇 **1st Place – DSA Coding Competition**
+- 📜 **React.js Certification – HackerRank**
+- ⭐ **Best Performer of the Year 2023 (BCA)**
 
 ---
 
-## 📫 Let's Connect
-* [cite_start]**Email:** piyushraikwar289@gmail.com [cite: 2]
-* [cite_start]**LinkedIn:** [linkedin.com/in/piyushkumar289](https://linkedin.com/in/piyushkumar289) [cite: 2]
-* [cite_start]**Portfolio/GitHub:** [github.com/Piyush289kumar](https://github.com/Piyush289kumar) [cite: 2]
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)  
+2025 Batch – Jabalpur, M.P.
+
+**Bachelor of Computer Applications (BCA)**  
+Makhanlal Chaturvedi National University  
+2023 Batch – Jabalpur, M.P.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush289kumar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush289kumar&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: piyushraikwar289@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/piyushkumar289
+- 💻 GitHub: https://github.com/Piyush289kumar
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
