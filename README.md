@@ -15,7 +15,7 @@
 
 ---
 
-# 👨‍💻 Professional Summary
+## Professional Summary
 
 Software Engineer with hands-on experience in building scalable web applications and RESTful APIs using **React.js, Next.js, Node.js, and Laravel**.
 
@@ -24,32 +24,38 @@ Experienced in designing modern full-stack architectures, deploying production s
 ✔ 15+ Production Projects.  
 ✔ Experience with **Monolithic & Microservices** Architecture.  
 ✔ CI/CD & Cloud Deployment.  
-✔ Performance Optimization & Scalable Systems.  
+✔ Performance Optimization & Scalable Systems.
 
 ---
 
-# 🧠 Technical Expertise
+## Technical Expertise
 
 ### Frontend Development
-#### React.js • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • Bootstrap • JavaScript
+
+React.js • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • Bootstrap • JavaScript
 
 ### Backend Development
-#### Node.js • Express.js • PHP • Laravel
+
+Node.js • Express.js • PHP • Laravel
 
 ### Databases
-#### MySQL • MongoDB
+
+MySQL • MongoDB
 
 ### DevOps & Deployment
-#### Docker • GitHub Actions • VPS Deployment • Coolify • Linux
+
+Docker • GitHub Actions • VPS Deployment • Coolify • Linux
 
 ### Software Engineering
-#### REST APIs • MVC Architecture • System Design • DSA (C++)
+
+REST APIs • MVC Architecture • System Design • DSA (C++)
 
 ---
 
-# 💼 Professional Experience
+## Professional Experience
 
-## Software Engineer
+### Software Engineer
+
 **Vipprow Digital & Software Solution Pvt Ltd – Jabalpur, India**  
 Sep 2025 – Present
 
@@ -57,9 +63,11 @@ Sep 2025 – Present
 - Developed **Node.js backend services for mobile applications**.
 - Contributing to development of a **Next.js CRM platform**.
 - Collaborating on UI design assets using **CorelDRAW**.
+
 ---
 
-## Laravel Developer Intern
+### Laravel Developer Intern
+
 **Intenics Pvt Ltd – IT Park, Jabalpur**  
 May 2024 – Sep 2024
 
@@ -69,7 +77,8 @@ May 2024 – Sep 2024
 
 ---
 
-## Full Stack Web Developer Intern
+### Full Stack Web Developer Intern
+
 **Aalaa Commonwealth Society – Jabalpur**  
 Dec 2023 – May 2024
 
@@ -79,9 +88,9 @@ Dec 2023 – May 2024
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## Beauty Brand Full Stack Platform
+### Beauty Brand Full Stack Platform
 
 **Technology:** Next.js • React • Node.js • MongoDB • TypeScript • Redux Toolkit • Docker
 
@@ -100,7 +109,7 @@ Backend : https://api.bellezaschool.com
 
 ---
 
-## Service Booking & CRM Platform
+### Service Booking & CRM Platform
 
 **Technology:** Laravel • Razorpay • Progressive Web App
 
@@ -116,7 +125,7 @@ https://binduservice.com
 
 ---
 
-# 🏆 Achievements
+## Achievements
 
 🥇 **1st Place** — DSA Coding Competition (Time Limit Exceeds Phase 1)  
 📜 React.js Certification — HackerRank  
@@ -124,7 +133,7 @@ https://binduservice.com
 
 ---
 
-# 🎓 Education
+## Education
 
 **Master of Computer Applications (MCA)**  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)  
@@ -136,28 +145,20 @@ Graduated: 2023
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush289kumar&show_icons=true&theme=github_dark" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush289kumar&layout=compact&theme=github_dark" height="180">
-
-</p>
+### Activity Graph
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush289kumar&theme=default"/>
 
 ---
 
-# 📫 Contact
+## Contact
 
-**Email**  
-piyushraikwar289@gmail.com
+**Email** : piyushraikwar289@gmail.com
 
-**LinkedIn**  
-linkedin.com/in/piyushkumar289
+**LinkedIn** :  linkedin.com/in/piyushkumar289
 
-**GitHub**  
-github.com/Piyush289kumar
+**GitHub** : github.com/Piyush289kumar
 
 ---
 
