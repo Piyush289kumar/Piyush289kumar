@@ -1,6 +1,6 @@
 <h1 align="center">Piyush Shailendra Kumar Raikwar</h1>
 <h2 align="center">System Engineer @TCS</h2>
-<h3 align="center">React • Next.js • Node.js • Laravel • DSA</h3>
+<h3 align="center">Next.js • Node.js • Laravel • DSA</h3>
 
 <p align="center">
   <a href="mailto:piyushraikwar289@gmail.com">
