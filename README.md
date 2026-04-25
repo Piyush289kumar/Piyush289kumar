@@ -152,9 +152,7 @@ Graduated: 2023
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush289kumar&theme=default"/>
 
 ---
-
 ## Contact
-
 **Email** : piyushraikwar289@gmail.com
 **LinkedIn** :  linkedin.com/in/piyushkumar289
 
