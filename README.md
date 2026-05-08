@@ -163,4 +163,3 @@ Graduated: 2023
 
 ⭐ Open to collaboration on **Full Stack, SaaS, and scalable web platforms**
 
-
