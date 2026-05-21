@@ -131,7 +131,6 @@ https://binduservice.com
 🥇 **1st Place** — DSA Coding Competition (Time Limit Exceeds Phase 1)  
 📜 **React.js Certification** — HackerRank  
 ⭐ **Best Performer of the Year** — BCA Graduation
-
 ---
 
 ## Education
