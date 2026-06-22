@@ -1,6 +1,7 @@
-<h1 align="center">Piyush Shailendra Kumar Raikwar</h1>
-<h2 align="center">Backend Developer @TCS</h2>
-<h3 align="center">Next.js • Node.js • Java Spring Boot • Laravel • DSA • AWS</h3>
+# I'm Piyush Shailendra Kumar Raikwar
+
+<h3 align="center">Software Engineer @TCS</h3>
+<h3 align="center">Java Spring Boot | Microservices | Node.js | Next.js | AWS</h3>
 
 <p align="center">
   <a href="mailto:piyushraikwar289@gmail.com">
@@ -18,149 +19,177 @@
 
 ## Professional Summary
 
-Software Engineer with hands-on experience in building scalable web applications and RESTful APIs using **React.js, Next.js, Node.js, and Laravel**.
+Software Engineer with experience building enterprise applications, microservices, and scalable web platforms using Java Spring Boot, Node.js, Laravel, and Next.js.
 
-Experienced in designing modern full-stack architectures, deploying production systems on VPS infrastructure, and implementing CI/CD pipelines. Strong problem-solving ability with solid foundations in **Data Structures and Algorithms (C++)**.
+Currently working at **Tata Consultancy Services (TCS)** on **TCS BaNCS Global Securities Platform (GSP) 2.0** for **CTBC Bank Taiwan**, contributing to enterprise banking and capital market solutions.
 
-✔ 15+ Production Projects.  
-✔ Experience with **Monolithic & Microservices** Architecture.  
-✔ CI/CD & Cloud Deployment.  
-✔ Performance Optimization & Scalable Systems.
+I enjoy solving complex backend problems, designing APIs, optimizing databases, and building production-ready systems.
 
----
+### Highlights
 
-## Technical Expertise
-
-### Frontend Development
-
-React.js • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • Bootstrap • JavaScript
-
-### Backend Development
-
-Node.js • Express.js • PHP • Laravel
-
-### Databases
-
-MySQL • MongoDB
-
-### DevOps & Deployment
-
-Docker • GitHub Actions • VPS Deployment • Coolify • Linux
-
-### Software Engineering
-
-REST APIs • MVC Architecture • System Design • DSA (C++)
+* 💼 Software Engineer at TCS
+* ☕ Java Spring Boot & Microservices
+* 🌐 Full Stack Development with Next.js & Node.js
+* ☁️ AWS, Docker & CI/CD
+* 📈 350+ LeetCode Problems Solved
+* 🏆 LeetCode Contest Rating: 1686
+* 🚀 15+ Production Projects Delivered
 
 ---
 
-## Professional Experience
+## 🛠 Tech Stack
 
-### Software Engineer
+### Languages
 
-**Vipprow Digital & Software Solution Pvt Ltd – Jabalpur, India**  
-Sep 2025 – Present
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
 
-- Designed and deployed **Next.js and Laravel applications** for production environments.
-- Developed **Node.js backend services for mobile applications**.
-- Contributing to development of a **Next.js CRM platform**.
-- Collaborating on UI design assets using **CorelDRAW**.
+### Backend
 
----
+* Spring Boot, Microservices, Node.js, Express.js, Laravel, REST APIs, JWT Authentication
 
-### Laravel Developer Intern
+### Frontend
 
-**Intenics Pvt Ltd – IT Park, Jabalpur**  
-May 2024 – Sep 2024
+* Next.js, React.js, Redux Toolkit, Tailwind CSS, TypeScript
 
-- Built responsive Laravel web applications with optimized backend architecture.
-- Improved backend performance by **30%** through query optimization.
-- Enhanced UI responsiveness resulting in **20% increased user engagement**.
+### Database
 
----
+* MySQL, PostgreSQL, MongoDB, Redis
 
-### Full Stack Web Developer Intern
+### Cloud & DevOps
 
-**Aalaa Commonwealth Society – Jabalpur**  
-Dec 2023 – May 2024
-
-- Developed full-stack applications using **PHP, MySQL, TailwindCSS, and Bootstrap**.
-- Integrated RESTful APIs and optimized database schemas.
-- Improved system performance by **15%**.
+* AWS, Docker, GitHub Actions, CI/CD, Coolify, Hostinger VPS, Linux
 
 ---
 
-## Featured Projects
+## 💼 Professional Experience
 
-### Beauty Brand Full Stack Platform
+### Software Engineer | TCS
 
-**Technology:** Next.js • React • Node.js • MongoDB • TypeScript • Redux Toolkit • Docker
+**March 2026 – Present**
 
-- Designed a scalable **full-stack beauty brand ecosystem**
-- Built an **admin dashboard using TanStack Query and ShadCN UI**
-- Implemented **CI/CD pipelines using GitHub Actions**
-- Deployed production services using **Docker + VPS + Coolify**
+* Working on TCS BaNCS GSP 2.0 for CTBC Bank Taiwan.
+* Developing and maintaining Spring Boot microservices.
+* Building secure REST APIs for enterprise banking systems.
+* Participating in Agile development, code reviews, debugging, and performance optimization.
+* Collaborating with cross-functional teams on scalable financial applications.
 
-#### Production Links:
+### Software Engineer | Vipprow Digital & Software Solution
 
-Website : https://bellezaschool.com
+**Sep 2025 – Mar 2026**
 
-Admin Console : https://console.bellezaschool.com
+* Developed full-stack applications using Next.js, Node.js, Laravel, MySQL, and MongoDB.
+* Built scalable REST APIs and backend services.
+* Managed production deployments using AWS, Docker, VPS, and CI/CD pipelines.
 
-Backend : https://api.bellezaschool.com
+### Laravel Developer Intern | Intenics Pvt Ltd
 
----
+**May 2024 – Sep 2024**
 
-### Service Booking & CRM Platform
-
-**Technology:** Laravel • Razorpay • Progressive Web App
-
-- Developed a **complete service management CRM system**
-- Implemented **role-based dashboards for Admin, Staff, and Customers**
-- Integrated **online payments using Razorpay**
-- Implemented **PWA support for offline functionality**
-
-Production Links:
-
-https://binduelectricals.in  
-https://binduservice.com
+* Developed Laravel web applications and REST APIs.
+* Optimized database queries and backend performance.
+* Worked on scalable backend architecture and integrations.
 
 ---
 
-## Achievements
+## 🚀 Featured Projects
 
-🥇 **1st Place** — DSA Coding Competition (Time Limit Exceeds Phase 1)  
-📜 **React.js Certification** — HackerRank  
-⭐ **Best Performer of the Year** — BCA Graduation
+### CRM Platform
+
+**Node.js • MongoDB • Zod • CI/CD**
+
+* Lead Management System
+* Ticket Management
+* Inventory Tracking
+* Invoice Management
+* Role-Based Access Control
+* Analytics Dashboard
+
+### Service Booking & E-Commerce Platform
+
+**Laravel • Razorpay • PWA**
+
+* Complete CRM Solution
+* Admin, Staff & Customer Dashboards
+* Online Payment Integration
+* Progressive Web App Support
+* Production Deployment
+
+### Full Stack Business Applications
+
+**Next.js • Node.js • MongoDB • TypeScript**
+
+* Server-side rendered applications
+* API-driven architecture
+* Authentication & Authorization
+* Production-ready deployment
+
 ---
 
-## Education
+## 🏆 Achievements
 
-**Master of Computer Applications (MCA)**  
-Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)  
-Graduated: 2025
-
-**Bachelor of Computer Applications (BCA)**  
-Makhanlal Chaturvedi National University  
-Graduated: 2023
-
----
-
-## GitHub Analytics
-
-### Activity Graph
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush289kumar&theme=default"/>
-
----
-## Contact
-**Email** : piyushraikwar289@gmail.com
-
-**LinkedIn** :  linkedin.com/in/piyushkumar289
-
-**GitHub** : github.com/Piyush289kumar
+* 🥇 1st Place — DSA Coding Competition
+* 🚀 350+ LeetCode Problems Solved
+* 📈 Contest Rating: 1686
+* 📜 React.js Certification — HackerRank
+* 📜 Software Engineering Certification — HackerRank
+* ⭐ 15+ Production-Level Projects
 
 ---
 
-⭐ Open to collaboration on **Full Stack, SaaS, and scalable web platforms**
+## 🎓 Education
 
+### Master of Computer Applications (MCA)
 
+Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)
+2025 Batch
 
+### Bachelor of Computer Applications (BCA)
+
+Makhanlal Chaturvedi National University
+2023 Batch
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush289kumar&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush289kumar" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush289kumar&layout=compact" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush289kumar&theme=github-compact" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: [piyushraikwar289@gmail.com](mailto:piyushraikwar289@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/piyushkumar289
+
+🌐 GitHub: github.com/Piyush289kumar
+
+---
+
+### Current Focus
+
+* Java Spring Boot & Microservices, System Design, Distributed Systems, AWS Cloud, Backend Engineering, DSA & Competitive Programming
+
+⭐ Always open to collaborating on impactful software engineering projects.
