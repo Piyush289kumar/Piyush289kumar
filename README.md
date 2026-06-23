@@ -174,7 +174,6 @@ Makhanlal Chaturvedi National University
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush289kumar&theme=github-compact" />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
