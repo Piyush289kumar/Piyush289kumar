@@ -31,7 +31,7 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 * 🌐 Full Stack Development with Next.js & Node.js
 * ☁️ AWS, Docker & CI/CD
 * 📈 350+ LeetCode Problems Solved
-* 🏆 LeetCode Contest Rating: 1686
+* 🏆 LeetCode Contest Rating: 1804
 * 🚀 15+ Production Projects Delivered
 
 ---
@@ -132,7 +132,7 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 
 * 🥇 1st Place — DSA Coding Competition
 * 🚀 350+ LeetCode Problems Solved
-* 📈 Contest Rating: 1686
+* 📈 Contest Rating: 1804
 * 📜 React.js Certification — HackerRank
 * 📜 Software Engineering Certification — HackerRank
 * ⭐ 15+ Production-Level Projects
