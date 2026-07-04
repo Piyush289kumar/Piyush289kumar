@@ -191,5 +191,3 @@ Makhanlal Chaturvedi National University
 * Java Spring Boot & Microservices, System Design, Distributed Systems, AWS Cloud, Backend Engineering, DSA & Competitive Programming
 
 ⭐ Always open to collaborating on impactful software engineering projects.
-
-
