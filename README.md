@@ -32,7 +32,7 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 * 🌐 Full Stack Development with Next.js & Node.js
 * ☁️ AWS, Docker & CI/CD
 * 📈 350+ LeetCode Problems Solved
-* 🏆 LeetCode Contest Rating: 1804
+* 🏆 LeetCode Contest Rating: 2018
 * 🚀 15+ Production Projects Delivered
 
 ---
