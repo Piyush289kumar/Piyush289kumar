@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer @TCS</h3>
 <h3 align="center">Knight @leetcode | Next.js | Laravel | Node.js | Java Spring Boot | AWS | Microservices | REST APIs</h3>
 
-
 <p align="center">
   <a href="mailto:piyushraikwar289@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
