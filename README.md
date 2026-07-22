@@ -33,7 +33,6 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 * 📈 350+ LeetCode Problems Solved
 * 🏆 LeetCode Contest Rating: 2018
 * 🚀 15+ Production Projects Delivered
-
 ---
 
 ## 🛠 Tech Stack
