@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
   </a>
 </p>
-
 ---
 
 ## Professional Summary
