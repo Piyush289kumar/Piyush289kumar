@@ -44,7 +44,7 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 
 ### Backend
 
-* Spring Boot, Microservices, Node.js, Express.js, Laravel, REST APIs, JWT Authentication
+* Spring Boot, Microservices, Node.js, Express.js, Laravel, REST APIs.
 
 ### Frontend
 
