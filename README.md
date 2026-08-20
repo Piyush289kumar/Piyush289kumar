@@ -1,6 +1,6 @@
 <h1 align="center">Piyush Shailendra Kumar Raikwar</h1>
 <h3 align="center">Software Engineer @TCS</h3>
-<h3 align="center">Knight @leetcode | Next.js | Laravel | Node.js | Java Spring Boot | AWS | Microservices</h3>
+<h3 align="center">Knight @leetcode | Claude Certified Architect & Developer (Anthropic) | Next.js | Laravel | Node.js | Spring Boot | AWS | Microservices</h3>
 
 <p align="center">
   <a href="mailto:piyushraikwar289@gmail.com">
