@@ -21,7 +21,6 @@ Currently working at **Tata Consultancy Services (TCS)** on **TCS BaNCS Global S
 I enjoy solving complex backend problems, designing APIs, optimizing databases, and building production-ready systems.
 
 ### Highlights
-
 * 💼 Software Engineer at TCS
 * ☕ Java Spring Boot & Microservices
 * 🌐 Full Stack Development with Next.js & Node.js
@@ -130,7 +129,6 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 * 📜 React.js Certification — HackerRank
 * 📜 Software Engineering Certification — HackerRank
 * ⭐ 15+ Production-Level Projects
-
 ---
 
 ## 🎓 Education
