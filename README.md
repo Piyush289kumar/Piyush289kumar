@@ -29,7 +29,6 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 * 🏆 LeetCode Contest Rating: 2018
 * 🚀 15+ Production Projects Delivered
 ---
-
 ## 🛠 Tech Stack
 ### Languages
 
