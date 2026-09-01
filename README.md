@@ -15,7 +15,6 @@
 </p>
 
 ## Professional Summary
-
 Software Engineer with experience building enterprise applications, microservices, and scalable web platforms using Java Spring Boot, Node.js, Laravel, and Next.js.
 Currently working at **Tata Consultancy Services (TCS)** on **TCS BaNCS Global Securities Platform (GSP) 2.0** for **CTBC Bank Taiwan**, contributing to enterprise banking and capital market solutions.
 I enjoy solving complex backend problems, designing APIs, optimizing databases, and building production-ready systems.
@@ -31,7 +30,6 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 ---
 ## 🛠 Tech Stack
 ### Languages
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
