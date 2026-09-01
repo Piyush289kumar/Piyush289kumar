@@ -159,12 +159,15 @@ Makhanlal Chaturvedi National University
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush289kumar&theme=github-compact" />
 </p>
 ---
+
 ## 🤝 Connect With Me
 
 📧 Email: [piyushraikwar289@gmail.com](mailto:piyushraikwar289@gmail.com)
 💼 LinkedIn: linkedin.com/in/piyushkumar289
 🌐 GitHub: github.com/Piyush289kumar
+
 ---
+
 ### Current Focus
 * Java Spring Boot & Microservices, System Design, Distributed Systems, AWS Cloud, Backend Engineering, DSA & Competitive Programming
 ⭐ Always open to collaborating on impactful software engineering projects.
