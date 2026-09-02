@@ -1,7 +1,6 @@
 <h1 align="center">Piyush Shailendra Kumar Raikwar</h1>
 <h3 align="center">Software Engineer @TCS</h3>
 <h3 align="center">Knight @leetcode |  AWS Certified Solutions Architect | Claude Certified Architect & Developer (Anthropic) | Next.js | Laravel | Node.js | Spring Boot | Microservices</h3>
-
 <p align="center">
   <a href="mailto:piyushraikwar289@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
@@ -69,7 +68,6 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 ### Software Engineer | Vipprow Digital & Software Solution
 
 **Sep 2025 – Mar 2026**
-
 * Developed full-stack applications using Next.js, Node.js, Laravel, MySQL, and MongoDB.
 * Built scalable REST APIs and backend services.
 * Managed production deployments using AWS, Docker, VPS, and CI/CD pipelines.
