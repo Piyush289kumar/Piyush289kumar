@@ -118,12 +118,12 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 
 ## 🏆 Achievements
 
-* 🥇 1st Place — DSA Coding Competition
-* 🚀 350+ LeetCode Problems Solved
-* 📈 Contest Rating: 1804
-* 📜 React.js Certification — HackerRank
-* 📜 Software Engineering Certification — HackerRank
-* ⭐ 15+ Production-Level Projects
+* AWS Certified Solutions Architect – Associate.
+* Claude Certified Architect - Professional. 
+* Claude Certified Developer - Foundations.
+* Knight on LeetCode | Peak Contest Rating: 2018 (Top 2.35%).
+* React.js and Software Engineering Certifications – HackerRank.
+* 15+ Production-Level Projects
 ---
 
 ## 🎓 Education
