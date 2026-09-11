@@ -151,10 +151,7 @@ Makhanlal Chaturvedi National University
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush289kumar&layout=compact" />
 </p>
-
-
----
-
+--
 
 ## 📈 Activity Graph
 <p align="center">
