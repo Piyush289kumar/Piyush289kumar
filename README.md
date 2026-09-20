@@ -139,11 +139,9 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)
 
 Makhanlal Chaturvedi National University
 2023 Batch
-
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyush289kumar&show_icons=true" />
 </p>
