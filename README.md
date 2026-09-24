@@ -26,8 +26,11 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 * 📈 350+ LeetCode Problems Solved
 * 🏆 LeetCode Contest Rating: 2018
 * 🚀 15+ Production Projects Delivered
+
 ---
+
 ## 🛠 Tech Stack
+
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
