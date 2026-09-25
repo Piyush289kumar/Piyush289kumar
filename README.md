@@ -29,7 +29,6 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 * 🚀 15+ Production Projects Delivered
 
 ---
-
 ## 🛠 Tech Stack
 
 ### Languages
