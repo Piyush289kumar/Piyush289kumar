@@ -29,6 +29,7 @@ I enjoy solving complex backend problems, designing APIs, optimizing databases, 
 * 🚀 15+ Production Projects Delivered
 
 ---
+
 ## 🛠 Tech Stack
 
 ### Languages
@@ -152,9 +153,7 @@ Makhanlal Chaturvedi National University
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush289kumar&layout=compact" />
 </p>
-
 --
-
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush289kumar&theme=github-compact" />
