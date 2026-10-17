@@ -1,7 +1,6 @@
 <h1 align="center">Piyush Shailendra Kumar Raikwar</h1>
 <h3 align="center">Software Engineer @TCS</h3>
 <h3 align="center">Knight @leetcode | AWS Certified Solutions Architect | Claude Certified Architect & Developer (Anthropic) | Microsoft Certified GitHub Action | Next.js | Laravel | Node.js | Spring Boot | Microservices</h3>
-
 <p align="center">
   <a href="mailto:piyushraikwar289@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
@@ -13,7 +12,6 @@
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
   </a>
 </p>
-
 ## Professional Summary
 Software Engineer with experience building enterprise applications, microservices, and scalable web platforms using Java Spring Boot, Node.js, Laravel, and Next.js.
 Currently working at **Tata Consultancy Services (TCS)** on **TCS BaNCS Global Securities Platform (GSP) 2.0** for **CTBC Bank Taiwan**, contributing to enterprise banking and capital market solutions.
